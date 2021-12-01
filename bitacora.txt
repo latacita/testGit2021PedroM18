@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Monje Onandia,Pedro                                     %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(6)     git add bitacora.txt
+(7)     git commit -m "paso 7"
+(8)     git checkout Lola
