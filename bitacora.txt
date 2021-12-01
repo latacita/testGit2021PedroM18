@@ -25,4 +25,9 @@
 (21)    git commit -m "Paso 21"
 (22)    git checkout Lola
 (23)    git stash apply
+(25)    git add bitacora.txt
+(26)    git commit -m "Paso 26"
+(27) 	git checkout master
+(28)    git merge Lola               Fusion recursiva con conflictos, lo solucionamos(editar bitacora.txt)
+				     y se hace add y commit para finalizar el merge.
 
