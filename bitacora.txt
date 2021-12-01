@@ -10,10 +10,19 @@
 (2)     git branch Paco
 (3)     git branch Lola
 (4)     git checkout Paco
+(6)     git add bitacora.txt
+(7)     git commit -m "paso 7"
+(8)     git checkout Lola
+(10)    git add bitacora.txt
+(11)    git commit -m "Paso 11"
 (13)    git checkout master
 (14)    Fast forward
 (16)    git add bitacora.txt
 (17)    git commit -m "Paso 17"
 (18)    git merge Paco               Fusion recursiva con conflictos, 
 				     los solucionamos(editar bitacora.txt) y se hace add y commit
+(20)    git add bitacora.txt
+(21)    git commit -m "Paso 21"
+(22)    git checkout Lola
+(23)    git stash apply
 
